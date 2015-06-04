@@ -29,7 +29,18 @@ If you're going to apply and then interview with a company, you should be famili
   - Google Analytics 
 
 ## Random Questions You May Be Asked
-... nyi
+- What is the next thing you'd like to learn?
+- Can you describe the use case for classes VS IDs in CSS? Why is this useful and how does it affect your CSS design and layout?
+- What is the purpose of a library like Backbone.js or Angular.js for Javascript?
+- What is the primary difference between Sinatra and Ruby on Rails?
+- Do you have any experience with using templates of any sort? If so, can you describe a use-case that you’ve used them for?
+- In layman’s terms, how would you explain the concept of inheritance and classes to someone who is not a developer?
+- What is the benefit of using TDD or BDD (test driven development or behaviour driven development)?
+- What is the benefit of using an MVC architecture?
+- What is the most recent API or library that you've used and why?
+- If I provide a class, can you show me what class it inherits from?
+- Can you describe inheritance?
+- Could you write a SQL statement that SELECTS from a table?
 
 ## The Joel Test
 Read about the Joel Test. If you are unfamiliar with what some of these may be, check out the writeup below (as a Jr. developer I wouldn't expect you to understand all of these). If you're comfortable with one or two of these questions, it doesn't hurt to ask the interviewer one or two questions during the interview regarding these.
