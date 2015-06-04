@@ -34,6 +34,9 @@ If you're going to apply and then interview with a company, you should be famili
 #### Examples
 ... nyi
 
+## The Joel Test
+
+
 ## Final Thoughts
 - Before interviewing, think of a 3-5 questions you'd like to ask the interviewer about the company/their product/wht you'll be doing.
 - Dress to impress... but ask what the expected dress code will be when scheduling the interview. Dress up one step nicer than that.
@@ -45,7 +48,7 @@ If you're going to apply and then interview with a company, you should be famili
 - Don't waste interview time with useless small talk.
 - Talk to a friend before interviewing. You'll feel confident going in. It isn't a bad idea to walk to an interview with a friend.
 
-#### Sources
+#### Sources & Additional Reading
 
 - http://www.joelonsoftware.com/articles/fog0000000043.html
 - http://tosbourn.com/interview-tips-junior-developers/
