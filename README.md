@@ -29,6 +29,9 @@ If you're going to apply and then interview with a company, you should be famili
   - Google Analytics 
 
 ## Random Questions You May Be Asked
+- How would you organize a front-end application folder-wise? Where would you place JS, CSS, etc?
+- What is your favourite Ruby framework and why? What does it do better than another framework?
+- What is the benefit of namespacing in a Javascript application?
 - What is the next thing you'd like to learn?
 - Can you describe the use case for classes VS IDs in CSS? Why is this useful and how does it affect your CSS design and layout?
 - What is the purpose of a library like Backbone.js or Angular.js for Javascript?
@@ -43,7 +46,7 @@ If you're going to apply and then interview with a company, you should be famili
 - Could you write a SQL statement that SELECTS from a table?
 
 ## The Joel Test
-Read about the Joel Test. If you are unfamiliar with what some of these may be, check out the writeup below (as a Jr. developer I wouldn't expect you to understand all of these). If you're comfortable with one or two of these questions, it doesn't hurt to ask the interviewer one or two questions during the interview regarding these.
+Read about the Joel Test. If you are unfamiliar with what some of these may be, check out the writeup below (as a Jr. developer I wouldn't expect you to understand all of these). If you're comfortable with one or two of these questions, it doesn't hurt to ask the interviewer one or two questions during the interview regarding these. Typically the Joel Test is designed to rate a company on how solid their development department is. 
 
 - Do you use source control?
 - Can you make a build in one step?
