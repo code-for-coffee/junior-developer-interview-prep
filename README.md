@@ -18,7 +18,15 @@ You'll probably be given the opportunity to whiteboard a problem. The goal of th
 If you're going to apply and then interview with a company, you should be familiar with what they sell/use. Research their Github; see what their developers use (if you can). If the company offers a service, create an account, login and try it out. Write down some questions about their product. Inspect their source code on the front end to see what libraries they may use. The more you know about the company when walking into the interview, the better!
 
 #### Examples
-... nyi
+- Github.com - In a `frameworks.js` file, they bundle/minify...
+  - jQuery
+  - Facebook for jQuery
+  - Sizzle CSS Selector Engine
+- GeneralAssemb.ly - uses...
+  - jQuery
+  - Facebook
+  - Twitter
+  - Google Analytics 
 
 ## Random Questions You May Be Asked
 ... nyi
