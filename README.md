@@ -34,8 +34,20 @@ If you're going to apply and then interview with a company, you should be famili
 #### Examples
 ... nyi
 
+## Final Thoughts
+- Before interviewing, think of a 3-5 questions you'd like to ask the interviewer about the company/their product/wht you'll be doing.
+- Dress to impress... but ask what the expected dress code will be when scheduling the interview. Dress up one step nicer than that.
+- Don't be afraid to say **I don't know**. It is better than lying. 
+- If you need for clarification, ask! 
+- Don't ask for specifics regarding benefits on the first interview.
+- Ask what your role in the organization will be and what you can do to prepare for it prior to being hired.
+- Get your interviewer's email address. Email them next day thanking them for their time. They'll remember you.
+- Don't waste interview time with useless small talk.
+- Talk to a friend before interviewing. You'll feel confident going in. It isn't a bad idea to walk to an interview with a friend.
+
 #### Sources
 
+- http://www.joelonsoftware.com/articles/fog0000000043.html
 - http://tosbourn.com/interview-tips-junior-developers/
 - http://www.tombatron.com/2013/04/going-green-hiring-junior-developer.html
 - https://gist.github.com/peterhurford/1c78f13a6ef1fb908a9b
